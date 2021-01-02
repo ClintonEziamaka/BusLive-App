@@ -1,2 +1,2 @@
 # BusLive-App
-UI modification. This is a suggested modification project to the Winnipeg bus live Application.
+A project about suggested changes to the UI design and User Experience of the "Winnipeg Bus Live" Application. 
